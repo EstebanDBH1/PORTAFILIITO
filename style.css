@@ -382,7 +382,7 @@ body {
 @media screen and (max-width: 990px) {
   /*===hero====*/
   .hero {
-    height: 90vh;
+    height: 60vh;
   }
   .container__hero {
     flex-direction: column;
